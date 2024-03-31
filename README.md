@@ -101,3 +101,10 @@ You can check a few Protection areas:
 * Device performance and health
 
 BLDE = [BitLocker](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/) Drive Encryption is a data protection feature against theft and can provide Full Disk Encryption (FDE) with credentials. You can dual-boot a Windows 10/11 machine and check a 48-digit key required to access the BLDE-protected drive.    
+
+[Recent Windows Security features](https://www.csoonline.com/article/564531/the-best-new-windows-10-security-features.html)     
+
+System Disk backup:    
+Volume Shadow Copy Service (VSS) can be used to create a consistent shadow copy, or a snapshot, or a point-in-time copy of the disk or LUN (Logical Unit Number).   
+
+Volume Shadow Copies are stored in the System Volume Information folder on each drive with protection enabled.   
