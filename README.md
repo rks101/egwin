@@ -23,7 +23,7 @@ Computer Management: compmgmt.msc
 Event Viewer: eventvwr   
 Performance Monitor: perfmon   
 Resource Monitor: resmon - shows CPU, Disk, Network and Memory usage information    
-
+Windows Registry: regedt32 -  a hierarchical database to store information necessary to configure the system for users, applications, and hardware devices.    
 
 To See environment variables:    
 1. msinfo32 => Software Environment => Environment Variables   
