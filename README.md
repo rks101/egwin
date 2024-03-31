@@ -87,3 +87,17 @@ Examples:
     > ipconfig /allcompartments /all ... Show detailed information about all
                                          compartments
 ```
+
+
+## Security   
+
+Navigate Settings => Windows Security   
+
+You can check a few Protection areas:    
+* Virus & threat protection - live protection from Virus and ransomware using Windows Defender, current threats and scan options (Full, Quick, Custom)    
+* Firewall & network protection - Windows Firewall settings for domain (domain controlled systems), public (external WiFi) and private networks (home) 
+* App & browser control
+* Device security
+* Device performance and health
+
+
