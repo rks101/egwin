@@ -100,4 +100,4 @@ You can check a few Protection areas:
 * Device security - Core isolation, TPM related settings 
 * Device performance and health
 
-
+BLDE = BitLocker Drive Encryption is a data protection feature against theft and can provide Full Disk Encryption (FDE) with credentials. You can dual-boot a Windows 10/11 machine and check a 48-digit key required to access the BLDE-protected drive.    
