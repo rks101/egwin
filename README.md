@@ -96,7 +96,7 @@ Navigate Settings => Windows Security
 You can check a few Protection areas:    
 * Virus & threat protection - live protection from Virus and ransomware using Windows Defender, current threats and scan options (Full, Quick, Custom)    
 * Firewall & network protection - Windows Firewall settings for domain (domain controlled systems), public (external WiFi) and private networks (home) 
-* App & browser control - under Exploit Protection, check CFG, DEP, ASLR settings. 
+* App & browser control - under Exploit Protection, check [CFG, DEP, ASLR](https://github.com/rks101/egwin/blob/main/windows-exploit-protection.png) settings. 
 * Device security
 * Device performance and health
 
