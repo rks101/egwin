@@ -15,15 +15,15 @@ This repository compiles some commands, options, tools, and sys admin related to
 
 Type `msconfig` in search box to open System Information app or widget. Check Services and Tools tabs.   
 
-System Information: msinfo32 - look for computer hardware-related information.     
-Command Prompt: cmd.exe - CLI to execute commands    
-Task Manager: taskmgr    
-Control Panel: control.exe     
-Computer Management: compmgmt.msc    
-Event Viewer: eventvwr   
-Performance Monitor: perfmon   
-Resource Monitor: resmon - shows CPU, Disk, Network and Memory usage information    
-Windows Registry: regedt32 -  a hierarchical database to store information necessary to configure the system for users, applications, and hardware devices.    
+* System Information: msinfo32 - look for computer hardware-related information.     
+* Command Prompt: cmd.exe - CLI to execute commands    
+* Task Manager: taskmgr    
+* Control Panel: control.exe     
+* Computer Management: compmgmt.msc    
+* Event Viewer: eventvwr - to view event logs of systems, applications, etc.    
+* Performance Monitor: perfmon   
+* Resource Monitor: resmon - shows CPU, Disk, Network and Memory usage information    
+* Windows Registry: regedit or regedt32 -  a hierarchical database to store information necessary to configure the system for users, applications, and hardware devices.    
 
 To See environment variables:    
 1. msinfo32 => Software Environment => Environment Variables   
@@ -96,7 +96,7 @@ Navigate Settings => Windows Security
 You can check a few Protection areas:    
 * Virus & threat protection - live protection from Virus and ransomware using Windows Defender, current threats and scan options (Full, Quick, Custom)    
 * Firewall & network protection - Windows Firewall settings for domain (domain controlled systems), public (external WiFi) and private networks (home) 
-* App & browser control
+* App & browser control - under Exploit Protection, check CFG, DEP, ASLR settings. 
 * Device security
 * Device performance and health
 
