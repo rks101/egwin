@@ -108,3 +108,5 @@ System Disk backup:
 Volume Shadow Copy Service (VSS) can be used to create a consistent shadow copy, or a snapshot, or a point-in-time copy of the disk or LUN (Logical Unit Number).   
 
 Volume Shadow Copies are stored in the System Volume Information folder on each drive with protection enabled.   
+
+[LOLBAS](https://lolbas-project.github.io/) - Living off the Land binaries, scripts and libraries.    
